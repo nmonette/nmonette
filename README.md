@@ -1,5 +1,5 @@
-- Hi! I'm @nmonette, a Computer Science student at UC Irvine. 
-- I do research in Reinforcement Learning and Game Theory under prof. Ioannis Panageas
+- Hi! I'm @nmonette, a Computer Science student at the University of Oxford. 
+- I do research in Reinforcement Learning and Game Theory under prof. Jakob Foerster
 - If you want to reach me, feel free to email me at nathanmonette1@gmail.com.  My linkedin is https://www.linkedin.com/in/nathan-monette/.
 
 <!---
