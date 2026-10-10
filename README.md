@@ -1,5 +1,5 @@
-- Hi! I'm @nmonette, a Computer Science student at the University of Oxford. 
-- I do research in Reinforcement Learning and Game Theory under prof. Jakob Foerster
+- Hi! I'm @nmonette, a Computer Science student at the NYU 
+- I do research in Reinforcement Learning and Game Theory under prof. Eugene Vinitsky
 - If you want to reach me, feel free to email me at nathanmonette1@gmail.com.  My linkedin is https://www.linkedin.com/in/nathan-monette/.
 
 <!---
